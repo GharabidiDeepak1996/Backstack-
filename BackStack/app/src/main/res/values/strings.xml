@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BackStack</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_fragment_one">This is Fragment One.</string>
+
+    <string name="go_to_fragment_one">Go To Fragment One</string>
+</resources>
